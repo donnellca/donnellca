@@ -1,16 +1,10 @@
 ### About me
-- MEng Robotics - WashU, Dec '21
+- MEng Robotics - WashU, '22
 - BA Physics - Hendrix College, '19
-- Interested in entry-level opportunities in the field of robotics, with a focus on controls and automation
-
-### Extracurriculars
-- Project Manager and former Electronics Lead for WashU Formula Racing (Present)
-- Conference Coordinator for oSTEM@WashU (Present)
-- Organizer and MC for the Reddit Robotics Showcase, featuring 30 robotics projects completed by members of the 
-Reddit r/Robotics community (Summer 2021)
-- Personal Project in Soft Robotics (Summer 2019)
-- Vice President for the Society of Physics Students at Hendrix College (2018-2019) 
-- Eagle Scout Award in Scouts BSA (2015) 
+- Interested in the field of robotics, with a focus on controls and automation
+- Organizer and MC for the Reddit Robotics Showcase, 2 years running
+- Former Project Manager, Electronics Lead, Data Aquisition Lead for WashU Formula Racing
+- 3D-Printing hobby
 
 ### Contact
 - linkedin.com/in/chris-donnell
