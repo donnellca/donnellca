@@ -1,10 +1,10 @@
 ### About me
+- Systems Engineer - FAAC Inc
 - MEng Robotics - WashU, '22
 - BA Physics - Hendrix College, '19
 - Interested in the field of robotics, with a focus on controls and automation
-- Organizer and MC for the Reddit Robotics Showcase, 2 years running
-- Former Project Manager, Electronics Lead, Data Aquisition Lead for WashU Formula Racing
-- 3D-Printing hobby
+- Organizer and MC for the Reddit Robotics Showcase, 3 years running
+- Current volunteer for FSAE, former Project Manager and Electronics Lead for WashU Formula Racing
 
 ### Contact
 - linkedin.com/in/chris-donnell
