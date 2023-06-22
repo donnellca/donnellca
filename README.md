@@ -3,11 +3,11 @@
 - MEng Robotics - WashU, '22
 - BA Physics - Hendrix College, '19
 - Interested in the field of robotics, with a focus on controls and automation
-- Organizer and MC for the Reddit Robotics Showcase, 3 years running
-- Current volunteer for FSAE, former Project Manager and Electronics Lead for WashU Formula Racing
+- Organizer and MC for the [Reddit Robotics Showcase](https://redditroboticsshowcase.wordpress.com/), 3 years running
+- Current volunteer for FSAE, former Electronics Lead for [WashU Formula Racing](https://sae.wustl.edu/)
 
 ### Contact
-- linkedin.com/in/chris-donnell
+- [linkedin.com/in/chris-donnell](https://linkedin.com/in/chris-donnell)
 - donnellca@wustl.edu
 
 
