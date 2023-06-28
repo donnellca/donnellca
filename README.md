@@ -5,6 +5,7 @@
 - Interested in the field of robotics, with a focus on controls and automation
 - Organizer and MC for the [Reddit Robotics Showcase](https://redditroboticsshowcase.wordpress.com/), 3 years running
 - Current volunteer for FSAE, former Electronics Lead for [WashU Formula Racing](https://sae.wustl.edu/)
+- Owner of [FS-CAN project](https://github.com/FS-CAN/FS-CAN)
 
 ### Contact
 - [linkedin.com/in/chris-donnell](https://linkedin.com/in/chris-donnell)
